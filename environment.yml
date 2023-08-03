@@ -1,0 +1,12 @@
+name: qnlp-tut
+
+dependencies:
+  - python=3.9
+  - pip:
+    - torch
+    - torchvision
+    - pennylane==0.30.0
+    - jupyterlab
+    - notebook
+    - matplotlib
+    - ipykernel
