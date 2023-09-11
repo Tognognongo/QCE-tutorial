@@ -1,5 +1,17 @@
 import torch
 
+def read_data(filename):
+
+    sentences = []
+
+    with open(filename) as file:
+        for line in file:
+            temp = line[0] + ' '
+            temp += line[1:].strip()
+            sentences.append(temp)
+    return sentences
+
+
 def subset_idxs_dist(dataset, classes, set_size, balanced=True, randomized=False):
     from numpy import random
     
