@@ -23,7 +23,8 @@ The tutorial targets a broad audience. It is geared towards individuals interest
 |1. | Introduction and Welcome!                 | Eduardo Coello Perez          | 5 min    |
 |2. |                                           | In-Saeng Suh                  | 25 min   |
 |3. |                                           | Francisco Rios                | 30 min   |
-|4. |                                           | Mayanka Chandra Shekhar       | 30 min   |
+|4. |                                           | Mayanka Chandra Shekhar       | 25 min   |
+|5. | Coming Up in Session #2...                | Eduardo Coello Perez          | 5 min    |
 
 
 ### Session #2: 1:00 PM - 2:30 PM Pacific Time ###
