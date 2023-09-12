@@ -18,20 +18,20 @@ The tutorial targets a broad audience. It is geared towards individuals interest
 ## Agenda ##
 
 ### Session #1: 10:00 AM - 11:30 AM Pacific Time ###
-|#  | Agenda                    | Speaker                 | Duration | 
-|---|---------------------------|-------------------------|----------|
-|1. | Introduction and Welcome! | Eduardo Coello Perez    | 5 min    |
-|2. |                           | In-Saeng Suh            | 25 min   |
-|3. |                           | Francisco Rios          | 30 min   |
-|4. |                           | Mayanka Chandra Shekhar | 30 min   |
+|#  | Agenda                                    | Speaker                       | Duration | 
+|---|-------------------------------------------|-------------------------------|----------|
+|1. | Introduction and Welcome!                 | Eduardo Coello Perez          | 5 min    |
+|2. |                                           | In-Saeng Suh                  | 25 min   |
+|3. |                                           | Francisco Rios                | 30 min   |
+|4. |                                           | Mayanka Chandra Shekhar       | 30 min   |
 
 
 ### Session #2: 1:00 PM - 2:30 PM Pacific Time ###
-|#  | Agenda                    | Speaker                 | Duration | 
-|---|---------------------------|-------------------------|----------|
-|1. |                           |                         |          |
-|2. |                           |                         |          |
-|3. |                           |                         |          |
+|#  | Agenda                                    | Speaker                       | Duration | 
+|---|-------------------------------------------|-------------------------------|----------|
+|1. |                                           | Eduardo Coello Perez          |          |
+|2. |                                           | Kathleen Hamilton             | 30 min   |
+|3. | Adiabatic Quantum Support Vector Machines | Prasanna Date & Dong Jun Woun | 30 min   |
 
 
 
@@ -39,4 +39,7 @@ The tutorial targets a broad audience. It is geared towards individuals interest
 1. Open a terminal window
 2. Clone the QNLP Tutorial repo: `git clone https://github.com/Tognognongo/QCE-tutorial.git`
 3. Navigate to the QCE-tutorial directory: `cd QCE-tutorial`
+4. Make the `setup.sh` file executable: `chmod +766 setup.sh`
+5. Run `setup.sh`: `./setup.sh`
+6. 
 
