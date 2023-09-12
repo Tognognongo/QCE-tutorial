@@ -29,7 +29,7 @@ The tutorial targets a broad audience. It is geared towards individuals interest
 ### Session #2: 1:00 PM - 2:30 PM Pacific Time ###
 |#  | Agenda                                    | Speaker                       | Duration | 
 |---|-------------------------------------------|-------------------------------|----------|
-|1. |                                           | Eduardo Coello Perez          |          |
+|1. |                                           | Eduardo Coello Perez          | 30 min   |
 |2. |                                           | Kathleen Hamilton             | 30 min   |
 |3. | Adiabatic Quantum Support Vector Machines | Prasanna Date & Dong Jun Woun | 30 min   |
 
