@@ -34,3 +34,9 @@ The tutorial targets a broad audience. It is geared towards individuals interest
 |3. |                           |                         |          |
 
 
+
+## Get Started ##
+1. Open a terminal window
+2. Clone the QNLP Tutorial repo: `git clone https://github.com/Tognognongo/QCE-tutorial.git`
+3. Navigate to the QCE-tutorial directory: `cd QCE-tutorial`
+
