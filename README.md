@@ -21,9 +21,9 @@ The tutorial targets a broad audience. It is geared towards individuals interest
 |#  | Agenda                                    | Speaker                       | Duration | 
 |---|-------------------------------------------|-------------------------------|----------|
 |1. | Introduction and Welcome!                 | Eduardo Coello Perez          | 5 min    |
-|2. |                                           | In-Saeng Suh                  | 25 min   |
-|3. |                                           | Francisco Rios                | 30 min   |
-|4. |                                           | Mayanka Chandra Shekhar       | 25 min   |
+|2. | QNLP Workflow on HPC + QC                 | In-Saeng Suh                  | 25 min   |
+|3. | Category Theory in QNLP                   | Francisco Rios                | 30 min   |
+|4. | Classical NLP Modeling                    | Mayanka Chandra Shekhar       | 25 min   |
 |5. | Coming Up in Session #2...                | Eduardo Coello Perez          | 5 min    |
 
 
