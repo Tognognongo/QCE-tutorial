@@ -20,7 +20,7 @@ The tutorial targets a broad audience. It is geared towards individuals interest
 ### Session #1: 10:00 AM - 11:30 AM Pacific Time ###
 |#  | Agenda                                    | Speaker                       | Duration | 
 |---|-------------------------------------------|-------------------------------|----------|
-|1. | Introduction and Welcome!                 | Eduardo Coello Perez          | 5 min    |
+|1. | Introduction and Welcome!                 | Team                          | 5 min    |
 |2. | QNLP Workflow on HPC + QC                 | In-Saeng Suh                  | 25 min   |
 |3. | Category Theory in QNLP                   | Francisco Rios                | 30 min   |
 |4. | Classical NLP Modeling                    | Mayanka Chandra Shekar & John Gounley       | 25 min   |
