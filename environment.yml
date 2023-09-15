@@ -6,7 +6,7 @@ dependencies:
     - torch
     - torchvision
     - pennylane==0.30.0
+    - lambeq[extras]
     - jupyterlab
-    - notebook
     - matplotlib
     - ipykernel
