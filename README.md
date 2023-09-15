@@ -23,15 +23,15 @@ The tutorial targets a broad audience. It is geared towards individuals interest
 |1. | Introduction and Welcome!                 | Eduardo Coello Perez          | 5 min    |
 |2. | QNLP Workflow on HPC + QC                 | In-Saeng Suh                  | 25 min   |
 |3. | Category Theory in QNLP                   | Francisco Rios                | 30 min   |
-|4. | Classical NLP Modeling                    | Mayanka Chandra Shekhar       | 25 min   |
+|4. | Classical NLP Modeling                    | Mayanka Chandra Shekar & John Gounley       | 25 min   |
 |5. | Coming Up in Session #2...                | Eduardo Coello Perez          | 5 min    |
 
 
 ### Session #2: 1:00 PM - 2:30 PM Pacific Time ###
 |#  | Agenda                                    | Speaker                       | Duration | 
 |---|-------------------------------------------|-------------------------------|----------|
-|1. | DisCoCat and QLSTM models for simple tasks| Eduardo Coello Perez          | 30 min   |
-|2. |                                           | Kathleen Hamilton             | 30 min   |
+|1. | Quantum Neural Network for Text Classification | Kathleen Hamilton        | 30 min   |
+|2. | DisCoCat and QLSTM models for simple tasks| Eduardo Coello Perez          | 30 min   |
 |3. | Adiabatic Quantum Support Vector Machines | Prasanna Date & Dong Jun Woun | 30 min   |
 
 
