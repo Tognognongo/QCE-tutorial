@@ -2,7 +2,9 @@ name: qnlp-tut
 
 dependencies:
   - python=3.9
+  - pip
   - pip:
+    - pandas
     - torch
     - torchvision
     - pennylane==0.30.0
