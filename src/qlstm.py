@@ -132,8 +132,6 @@ class QLSTM(nn.Module):
         if ising==True: self.clayer_in = torch.nn.Linear(self.concat_size, 4*(n_qubits-1))
         else: self.clayer_in = torch.nn.Linear(self.concat_size, 2*n_qubits)
 
-        print(weight_shapes)
-
         self.VQC = {
             'forget': qml.qnn.TorchLayer(self.qlayer_forget, weight_shapes),
             'input': qml.qnn.TorchLayer(self.qlayer_input, weight_shapes),
