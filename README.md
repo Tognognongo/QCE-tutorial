@@ -40,7 +40,9 @@ The tutorial targets a broad audience. It is geared towards individuals interest
 1. Open a terminal window
 2. Clone the QNLP Tutorial repo: `git clone https://github.com/Tognognongo/QCE-tutorial.git`
 3. Navigate to the QCE-tutorial directory: `cd QCE-tutorial`
-4. Make the `setup.sh` file executable: `chmod +766 setup.sh`
-5. Run `setup.sh`: `./setup.sh`
-6. 
+4. Type the following commands:
+   $ conda env create -f environment.yml
+   $ conda activate qnlp-tut
+   $ python3 -m ipykernel install --user --name=qnlp-tut
+   $ jupyter lab
 
