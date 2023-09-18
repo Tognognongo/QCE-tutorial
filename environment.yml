@@ -12,3 +12,6 @@ dependencies:
     - jupyterlab
     - matplotlib
     - ipykernel
+    - scikit-learn
+    - nltk
+    - gensim
