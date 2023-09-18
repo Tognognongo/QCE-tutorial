@@ -35,6 +35,13 @@ The tutorial targets a broad audience. It is geared towards individuals interest
 |3. | Adiabatic Quantum Support Vector Machines | Prasanna Date & Dong Jun Woun | 30 min   |
 
 
+## Prerequisits ##
+Follow the instructions at https://conda.io/projects/conda/en/latest/user-guide/install/index.html to install conda.
+
+Make sure your conda version is > 23.7. You can check your conda version by typing the command:
+
+$ conda --version
+
 
 ## Getting Started ##
 1. Open a terminal window
