@@ -58,7 +58,7 @@ $ conda --version
    $ jupyter lab
 
 
-## Using Codespaces $$
+## Using Codespaces ##
 1. Click the <>Code button on the repository space.
 2. Create a codespace using the default options by clicking '+'.
 3. From the codespace terminal type the commands:
